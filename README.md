@@ -1,7 +1,6 @@
 # Hi there 👋
 
-![i'm a frontend developer](./https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![I am a Frontend developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm yousef, and I'm a Frontend developer. I really enjoy learning languages and frameworks like React and C++, as well as working in Javascript and C#. I also enjoy competitive programming.
 
