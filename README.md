@@ -1,10 +1,15 @@
-# Hi there 👋
-
 ![I am a Frontend developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+#yousef fathy
 I'm yousef, and I'm a Frontend developer. I really enjoy learning languages and frameworks like React and C++, as well as working in Javascript and C#. I also enjoy competitive programming.
 
-Skills: React/ JS / HTML / CSS / C# /C++
+## Skills and technologies
+*React
+*html
+*css
+*js
+*c++
+*c#
 
 - 🔭 I’m currently working on My own website. 
 - 🌱 I’m currently learning React. 
