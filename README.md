@@ -1,6 +1,11 @@
 ### Hi there 👋, yousef fathy
 #### I am a Frontend developer
-![I am a Frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Frontend developer](  _   _      _ _         __        __         _     _ _
+                              | | | | ___| | | ___    \ \      / /__  _ __| | __| | |
+                              | |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | |
+                              |  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |_|
+                              |_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_(_) |/)
+
 
 I'm yousef, and I'm a Frontend developer. I really enjoy learning languages and frameworks like React and C++, as well as working in Javascript and C#. I also enjoy competitive programming.
 
