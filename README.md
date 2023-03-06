@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![I am a Frontend developer](./![github-header-image](https://user-images.githubusercontent.com/105655483/223163251-6a7d49cc-cd8e-4edc-a289-903c9e6b2447.png)
+(https://user-images.githubusercontent.com/105655483/223163251-6a7d49cc-cd8e-4edc-a289-903c9e6b2447.png)
 
 
 I'm yousef, and I'm a Frontend developer. I really enjoy learning languages and frameworks like React and C++, as well as working in Javascript and C#. I also enjoy competitive programming.
