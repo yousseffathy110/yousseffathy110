@@ -1,4 +1,4 @@
-##### Hi there 👋
+# Hi there 👋
 
 I'm yousef, and I'm a Frontend developer. I really enjoy learning languages and frameworks like React and C++, as well as working in Javascript and C#. I also enjoy competitive programming.
 
