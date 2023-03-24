@@ -17,7 +17,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 - c++.
 - c#.
 - Responsive Design.
-- Accessibility
+- Accessibility.
 
 * 🔭 I’m currently working on My own website.
 * 🌱 I’m currently learning React.
