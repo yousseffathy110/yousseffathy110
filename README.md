@@ -10,12 +10,14 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 
 ## Skills and technologies.
 
-- React.
 - html.
 - css.
 - js.
+- React.
 - c++.
 - c#.
+- Responsive Design.
+- Accessibility
 
 * 🔭 I’m currently working on My own website.
 * 🌱 I’m currently learning React.
