@@ -19,6 +19,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 - Responsive Design.
 - Accessibility.
 - Assistive Technologies
+- <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
 * 🔭 I’m currently working on My own website.
 * 🌱 I’m currently learning React.
