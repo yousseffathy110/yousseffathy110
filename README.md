@@ -14,8 +14,8 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 - css.
 - js.
 - React.
-- c++.
-- c#.
+- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 - Responsive Design.
 - Accessibility.
 - Assistive Technologies
