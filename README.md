@@ -29,7 +29,6 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 - <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown">
 - <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-- <img src="https://www.flaticon.com/free-icon/c_6132222">
 
 
 
