@@ -2,6 +2,8 @@
 
 # Hello and Welcome 👋, I'm yousef fathy.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousseffathy110&label=Profile%20views&color=0e75b6&style=flat" alt="yousseffathy110" /> </p>
+
 <!-- I'm yousef, and I'm a Frontend developer. I really enjoy learning languages and frameworks like React and C++, as well as working in Javascript and C#. I also enjoy competitive programming.
  -->
 I'm Yousef and I'm proficient in a variety of web development technologies, including HTML, CSS, and JavaScript. also skilled in C++ and C#, which are popular programming languages for developing desktop and system-level applications. Currently, I'm expanding my skill set by learning React, a JavaScript library for building user interfaces.
