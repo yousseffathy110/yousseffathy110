@@ -60,10 +60,6 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="githup" width="40" height="40"/> 
 </a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
  
  <a href="https://www.w3schools.io/terminal/bash-tutorials/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> 
@@ -73,6 +69,15 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="markdown" width="40" height="40"/> 
 </a>
  
+ 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a> 
+ 
+ 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg)" alt="vs-code" width="40" height="40"/> 
+</a> 
  </p>
 
 
