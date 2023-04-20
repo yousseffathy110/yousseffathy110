@@ -76,7 +76,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
  
  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg)" alt="vs-code" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vs-code" width="40" height="40"/> 
 </a> 
  </p>
 
