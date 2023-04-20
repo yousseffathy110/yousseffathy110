@@ -78,6 +78,12 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vs-code" width="40" height="40"/> 
 </a> 
+ 
+ <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="vs" width="40" height="40"/> 
+</a> 
+ 
+ 
  </p>
 
 
