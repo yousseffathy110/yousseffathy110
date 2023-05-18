@@ -107,4 +107,4 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 ## 📊 GitHub Stats:
 | Github Stats | Top Languages |
 | --- | --- |
-| ![yousef's github stats](https://github-readme-stats.vercel.app/api?username=yousseffathy110&show_icons=true&theme=dark&count_private=true&include_all_commits=true) | ![yousef's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffathy110&layout=compact&theme=radical) |
+| ![yousef's github stats](https://github-readme-stats.vercel.app/api?username=yousseffathy110&show_icons=true&theme=dark&count_private=true&include_all_commits=true) | ![yousef's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffathy110&layout=compact&theme=dark) |
