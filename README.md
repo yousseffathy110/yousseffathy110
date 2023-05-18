@@ -93,14 +93,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseffathy110)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffathy110)](https://github.com/anuraghazra/github-readme-stats) -->
-  <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![snake gif](https://github.com/ahmedsaleh210/yousseffathy110/blob/github-contribution-snake-output/github-contribution-grid-snake-dark.svg)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
- 
- 
 ## 🏆 GitHub Trophies
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=onedark)
