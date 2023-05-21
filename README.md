@@ -98,7 +98,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 
 ## 🏆 GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
 | Github Stats | Top Languages |
