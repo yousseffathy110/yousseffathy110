@@ -97,8 +97,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffathy110)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![trophies](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=onedark)
 
 ## 📊 GitHub Stats:
 | Github Stats | Top Languages |
