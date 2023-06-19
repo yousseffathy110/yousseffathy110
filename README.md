@@ -6,7 +6,7 @@
 I'm Yousef and I'm proficient in a variety of web development technologies, including HTML, CSS, and JavaScript. also skilled in C++ and C#, which are popular programming languages for developing desktop and system-level applications. Currently, I'm expanding my skill set by learning React, a JavaScript library for building user interfaces.
 
 
-* 🔭 I’m currently working on My own website.
+* 🔭 I’m currently learning cyber security.
 * 🌱 I’m currently learning React.
 * 📚 I'm constantly learning new skills and striving for progress.
 
