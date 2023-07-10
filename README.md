@@ -11,7 +11,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 * 📚 I'm constantly learning new skills and striving for progress.
 
 
-<!-- ## 💻Skills and technologies.
+## 💻Skills and technologies.
 
 <p align="left">
 
@@ -72,8 +72,8 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 
-</p> -->
-### 💻 My favorite tools and technologies
+</p>
+<!-- ### 💻 My favorite tools and technologies
 <table align="center">
 
   <tr>
@@ -135,7 +135,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
  <tr>
     
  </tr>
-</table>
+</table> -->
 
 
 
