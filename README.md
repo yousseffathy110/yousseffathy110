@@ -98,7 +98,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="icon" width="96"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="96"/>
       <br>C
     </td>
   </tr>
