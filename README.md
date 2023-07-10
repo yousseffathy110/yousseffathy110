@@ -97,7 +97,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-    <td align="center" width="70">
+    <td align="center" width="20px">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="85"/>
       <br>C
     </td>
