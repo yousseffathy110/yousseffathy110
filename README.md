@@ -40,7 +40,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 </a> -->
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="60" height="60"/> 
 </a>
 
 <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
