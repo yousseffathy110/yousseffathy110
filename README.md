@@ -101,6 +101,10 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="85"/>
       <br>C
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <br>VsCode
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -129,10 +133,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
     </td>
   </tr>
  <tr>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-    <br>VsCode
-    </td>
+    
  </tr>
 </table>
 
