@@ -168,9 +168,8 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=onedark)
 
-## 📊 GitHub Stats:
-Top Languages
-![yousef's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffathy110&layout=compact&theme=dark) |
+## 📊 TOP Language:
+![yousef's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffathy110&layout=compact&theme=gotham)
 
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=yousseffathy110&theme=dark&hide_border=true)<br/> -->
