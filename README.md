@@ -162,11 +162,11 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🏆 GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=onedark)
+![trophies](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=gotham)
 
 ## 📊 TOP Language:
 
