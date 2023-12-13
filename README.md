@@ -57,6 +57,10 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+<img src="/vite.svg" alt="vit js" width="40" height="40"/> 
+</a>
+
 <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="javascript" width="40" height="40"/>
 </a> -->
@@ -171,7 +175,6 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 ## 📊 TOP Language:
 
 ![yousef's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffathy110&layout=compact&theme=gotham&env=PAT_1)
-
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=yousseffathy110&theme=dark&hide_border=true)<br/> -->
 
