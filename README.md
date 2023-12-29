@@ -92,6 +92,10 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="vs" width="40" height="40"/> 
 </a>
 
+<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
+<img src="./clion-icon.png" alt="Clion ide" width="40" height="40"/> 
+</a>
+
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
