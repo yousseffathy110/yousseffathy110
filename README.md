@@ -62,7 +62,7 @@ I'm Yousef and I'm proficient in a variety of web development technologies, incl
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="./icons8-nextjs-40.png" alt="Next js" width="40" height="40"/> 
+<img src="./nextjs.jpeg" alt="Next js" width="40" height="40"/> 
 </a>
 
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
