@@ -7,8 +7,8 @@
 Enthusiastic Junior Frontend Developer with a focus on React, adept at transforming concepts into dynamic user interfaces. Eager to contribute adaptability and collaborative skills to innovative projects, I'm committed to continuous learning and impactful results in front-end development.
 
 
-- 🔭 I’m currently learning cyber security.
 - 🌱 I’m currently learning React.
+- 🔭 I’m expanding my knowledge by learning Cyber Security.
 - 📚 I'm constantly learning new skills and striving for progress.
 
 ## 💻Skills and technologies.
