@@ -6,6 +6,7 @@
 <!-- I'm Yousef and I'm proficient in a variety of web development technologies, including HTML, CSS, and JavaScript. also skilled in C++ and C#, which are popular programming languages for developing desktop and system-level applications. Currently, I'm expanding my skill set by learning React, a JavaScript library for building user interfaces. -->
 Enthusiastic Junior Frontend Developer with a focus on React, adept at transforming concepts into dynamic user interfaces. Eager to contribute adaptability and collaborative skills to innovative projects, I'm committed to continuous learning and impactful results in front-end development.
 
+
 - 🔭 I’m currently learning cyber security.
 - 🌱 I’m currently learning React.
 - 📚 I'm constantly learning new skills and striving for progress.
