@@ -6,7 +6,6 @@
 <!-- I'm Yousef and I'm proficient in a variety of web development technologies, including HTML, CSS, and JavaScript. also skilled in C++ and C#, which are popular programming languages for developing desktop and system-level applications. Currently, I'm expanding my skill set by learning React, a JavaScript library for building user interfaces. -->
 Enthusiastic Junior Frontend Developer with a focus on React, adept at transforming concepts into dynamic user interfaces. Eager to contribute adaptability and collaborative skills to innovative projects, I'm committed to continuous learning and impactful results in front-end development.
 
-
 - 🌱 I’m currently learning React.
 - 🔭 I’m expanding my knowledge by learning Cyber Security.
 - 📚 I'm constantly learning new skills and striving for progress.
@@ -107,7 +106,18 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 ## 📬 Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yousseffathy110)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="background-color: white;">](https://www.linkedin.com/in/youssef-fathy-6215b2232/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/youssef.fathy.3994) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yousse_fathy/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yousef52590383) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17093168/yousef-fathy)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="background-color: white;">](https://www.linkedin.com/in/youssef-fathy-6215b2232/)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/youssef.fathy.3994)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yousse_fathy/)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yousef52590383)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17093168/yousef-fathy)
+
+[<img src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="CodePen Logo as SVG" height='40'/>](https://codepen.io/yousseffathy110)
 
 ## ✍️ Random Dev Quote
 
