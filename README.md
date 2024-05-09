@@ -10,7 +10,7 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 - 🔭 I’m expanding my knowledge by learning Cyber Security.
 - 📚 I'm constantly learning new skills and striving for progress.
 
-## 💻Skills and technologies.
+## 🤖Skills and Technologies.
 
 <p align="left">
 
@@ -38,6 +38,10 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind css" width="40" height="40"/> 
 </a>
 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+<img src="/assets/Sass.svg" alt="docker" width="40" height="40"/> 
+</a>
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="/assets/react.svg" alt="react" width="40" height="40"/> 
 </a>
@@ -47,7 +51,7 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="./Nextjs.png" alt="Next js" width="40" height="40"/> 
+<img src="./assets/NextJS-Dark.svg" alt="Next js" width="40" height="40"/> 
 </a>
 
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
@@ -93,12 +97,12 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<img src="/assets/C#.svg" alt="csharp" width="40" height="40"/> 
 </a>
 
 </p>
 
-## 💻Tools & Utilities:
+## 🛠️Tools & Utilities:
 
 <p align="left">
 
@@ -112,6 +116,10 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="/assets/Docker.svg" alt="docker" width="40" height="40"/> 
+</a>
+
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+<img src="/assets/Npm-Dark.svg" alt="docker" width="40" height="40"/> 
 </a>
 
 <a href="https://www.w3schools.io/terminal/bash-tutorials/" target="_blank" rel="noreferrer"> 
@@ -131,11 +139,15 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 </a>
 
 <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
-<img src="./clion-icon.png" alt="Clion ide" width="40" height="40"/> 
+<img src="/assets/CLion-Dark.svg" alt="Clion ide" width="40" height="40"/> 
 </a>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="/assets/Linux-Dark.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="#" target="_self" rel="noreferrer"> 
+<img src="/assets/Windows-Dark.svg" alt="linux" width="40" height="40"/>
 </a>
 
 </p>
