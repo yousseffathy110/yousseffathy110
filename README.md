@@ -13,8 +13,6 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 ## 💻Skills and technologies.
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="/assets/html.svg" alt="html5" width="40" height="40"/> 
@@ -95,7 +93,7 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="/assets/c#.png" alt="c#" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a>
 
 </p>
