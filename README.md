@@ -97,7 +97,7 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 </a>
 
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
-<img src="/assets/C#.svg" alt="csharp" width="40" height="40"/> 
+<img src="/assets/Csharp.svg" alt="csharp" width="40" height="40"/> 
 </a>
 
 </p>
