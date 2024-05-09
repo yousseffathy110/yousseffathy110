@@ -1,4 +1,5 @@
 ![I am a Frontend developer.](<./github-header-image%20(1).png>)
+
 # Hello and Welcome 👋, I'm yousef.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousseffathy110&label=Profile%20views&color=0e75b6&style=flat" alt="yousseffathy110" /> </p>
@@ -12,53 +13,39 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 ## 💻Skills and technologies.
 
 <p align="left">
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="/assets/html.svg" alt="html5" width="40" height="40"/> 
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="./icons8-tailwind-css-48.png" alt="Tailwind css" width="40" height="40"/> 
+<img src="/assets/css.svg" alt="css3" width="40" height="40"/> 
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="/assets/js.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="/assets/TypeScript.svg" alt="typescript" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="./icons8-nodejs-48.png" alt="nodejs" width="40" height="40"/> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="/assets/bootstarp.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-<img src="./postman-icon.svg" alt="postman" width="40" height="40"/> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind css" width="40" height="40"/> 
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="/assets/react.svg" alt="react" width="40" height="40"/> 
+</a>
+
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+<img src="/assets/Redux.svg" alt="redux.js" width="40" height="40"/> 
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -66,14 +53,67 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 </a>
 
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-<img src="/vite.svg" alt="vit js" width="40" height="40"/> 
+<img src="./assets/vite.svg" alt="vite.js" width="40" height="40"/> 
 </a>
+
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+<img src="./assets/materialui.svg" alt="materialUI" width="40" height="40"/> 
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="./assets/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+<img src="./assets/express.svg" alt="express.js" width="40" height="40"/> 
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="./assets/MongoDB.svg" alt="MongoDb" width="40" height="40"/> 
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+<img src="./assets/Postman.svg" alt="postman" width="40" height="40"/> 
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="/assets/MySQL-Dark.svg" alt="mySql" width="40" height="40"/> 
+</a>
+
+</p>
+
+## 💻Programming Languages:
+
+<p align="left">
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="/assets/c.svg" alt="c" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="/assets/cpp.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="/assets/c#.png" alt="c#" width="40" height="40"/>
+</a>
+
+</p>
+
+## 💻Tools & Utilities:
+
+<p align="left">
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="/assets/Git.svg" alt="git" width="40" height="40"/> 
 </a>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="githup" width="40" height="40"/> 
+<img src="/assets/Github-Dark.svg" alt="githup" width="40" height="40"/> 
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="/assets/Docker.svg" alt="docker" width="40" height="40"/> 
 </a>
 
 <a href="https://www.w3schools.io/terminal/bash-tutorials/" target="_blank" rel="noreferrer"> 
@@ -97,15 +137,14 @@ Enthusiastic Junior Frontend Developer with a focus on React, adept at transform
 </a>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img src="/assets/Linux-Dark.svg" alt="linux" width="40" height="40"/>
 </a>
 
 </p>
 
 ## 📬 Connect with me:
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yousseffathy110)   -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="background-color: white;">](https://www.linkedin.com/in/youssef-fathy-6215b2232/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/youssef.fathy.3994)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/youse_fathy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yousef52590383)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17093168/yousef-fathy)  [<img src="/logo-black.png" alt="CodePen Logo as SVG" height='40'/>](https://codepen.io/youseffathy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="background-color: white;">](https://www.linkedin.com/in/youssef-fathy-6215b2232/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/youssef.fathy.3994) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/youse_fathy/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yousef52590383) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17093168/yousef-fathy) [<img src="/logo-black.png" alt="CodePen Logo as SVG" height='40'/>](https://codepen.io/youseffathy)
 
 ## ✍️ Random Dev Quote
 
