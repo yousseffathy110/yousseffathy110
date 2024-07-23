@@ -123,16 +123,10 @@ Energetic Junior Frontend Developer with a flair for React and a knack for turni
 ## 📬 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/youssef-fathy-6215b2232/">
+  <a href="https://www.linkedin.com/in/yousef-fathy/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="background-color: white;">
   </a>
-  <a href="https://www.facebook.com/youssef.fathy.3994">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40">
-  </a>
-  <a href="https://www.instagram.com/youse_fathy/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
-  </a>
-  <a href="https://twitter.com/yousef52590383">
+  <a href="https://x.com/UsefFathyDev">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
   </a>
   <a href="https://stackoverflow.com/users/17093168/yousef-fathy">
