@@ -3,11 +3,10 @@
 # Hello and Welcome 👋, I'm yousef.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousseffathy110&label=Profile%20views&color=0e75b6&style=flat" alt="yousseffathy110" /> </p>
-<!-- I'm Yousef and I'm proficient in a variety of web development technologies, including HTML, CSS, and JavaScript. also skilled in C++ and C#, which are popular programming languages for developing desktop and system-level applications. Currently, I'm expanding my skill set by learning React, a JavaScript library for building user interfaces. -->
-Enthusiastic Junior Frontend Developer with a focus on React, adept at transforming concepts into dynamic user interfaces. Eager to contribute adaptability and collaborative skills to innovative projects, I'm committed to continuous learning and impactful results in front-end development.
+Energetic Junior Frontend Developer with a flair for React and a knack for turning ideas into vibrant user interfaces. Ready to dive into innovative projects with adaptability and a collaborative spirit. When I'm not coding, you'll find me perfecting my backhand in tennis or making a splash in the pool. Let's create something amazing together—both on the screen and off!
 
-- 🌱 I’m currently learning React.
-- 🔭 I’m expanding my knowledge by learning Cyber Security.
+- 🌱 I’m currently learning Next.js.
+- 🔭 I’m expanding my knowledge by learning Web Performance & Acceccabilty.
 - 📚 I'm constantly learning new skills and striving for progress.
 
 ## 🤖Skills and Technologies.
