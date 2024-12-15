@@ -143,7 +143,7 @@ Energetic Junior Frontend Developer with a flair for React and a knack for turni
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yousseffathy110&theme=dark)
 
 ## 📊 TOP Language
 
