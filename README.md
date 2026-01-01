@@ -10,6 +10,6 @@
         <a href="https://bsky.app/profile/devyousef.bsky.social">BlueSky</a>
         <br/>
         <br/>
-        keeping performance sharp, and making the web accessible for everyone
+        keeping performance sharp and making the web accessible for everyone
     </div>
 </samp>
