@@ -11,5 +11,5 @@
     <a href="https://bsky.app/profile/devyousef.bsky.social">BlueSky</a>
   </p>
 
-  <p><em>Keeping performance sharp and making the web accessible for everyone</em></p>
+  <p>Keeping performance sharp and making the web accessible for everyone</p>
 </div>
