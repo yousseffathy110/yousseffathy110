@@ -2,7 +2,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=yousseffathy110&label=Profile%20views&color=0e75b6&style=flat" 
     alt="Profile views counter" 
-  />
+  /><br />
 
   <p>
     <a href="https://yousef-fathy.vercel.app/">Portfolio</a> ·
